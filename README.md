@@ -6,7 +6,7 @@ Meu nome é Lívia Furtado Borges , atualmente moro em Bonn, Alemanha . Sou uma 
  `HTML` e `CSS`, `JavaScript`, `Ruby on Rails`, `R`, `Python` e `Power BI`.
 
 
-<h2>Tools</h2>
+<h2>Ferramentas</h2>
 
  <div>
     <img alt="github-pages" src="https://camo.githubusercontent.com/3969a7dc1620ea72bd25d0fcc9c00b847cf54d38d3a80786532ca4ad9615c7f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622050616765732d3232323232323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" /> 
