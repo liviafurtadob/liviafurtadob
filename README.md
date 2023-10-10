@@ -1,6 +1,6 @@
 ### Olá!👋
 
-Meu nome é Lívia Furtado Borges , atualmente moro em Bonn, Alemanha . Sou uma cientista social entusiasta de métodos e Ciências Sociais Computacionais. Sou mestra em Educação pela [PPGE/UNIFAL](https://www.unifal-mg.edu.br/ppge/). Você pode encontrar alguns de meus trabalhos em meu [currículo](http://lattes.cnpq.br/4563097677095912). Estou estudando Ciências Sociais e de dados com algumas linguagens de marcação e programação como HTML e CSS, Ruby on Rails, R, Python, JavaScript e outros. 
+Meu nome é Lívia Furtado Borges , atualmente moro em Bonn, Alemanha . Sou uma cientista social entusiasta de métodos e Ciências Sociais Computacionais. Sou mestra em Educação pela [PPGE/UNIFAL](https://www.unifal-mg.edu.br/ppge/). Você pode encontrar alguns de meus trabalhos em meu [currículo](http://lattes.cnpq.br/4563097677095912). Estou estudando Ciências Sociais e de dados com algumas linguagens de marcação e programação como HTML e CSS, JavaScript, R, Python, Ruby on Rails e outros. 
 
 🌱 Estou aprendendo:
  `HTML` e `CSS`, `JavaScript`, `Ruby on Rails`, `R`, `Python` e `Power BI`.
