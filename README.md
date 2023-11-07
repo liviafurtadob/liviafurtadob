@@ -17,6 +17,6 @@ Meu nome é Lívia Furtado Borges , atualmente moro em Bonn, Alemanha . Sou uma 
 
 <div>
    <a href = "mailto:liviafurtadob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/livia-furtado-borges-8a8025149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/livia-furtado-borges-8a8025149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
